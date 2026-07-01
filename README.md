@@ -1,3 +1,3 @@
-# Hebrew interactive project — speaker question mark | אני על רמקול
-
-MIT © 2026 [David Patlas](https://github.com/DavidPatlas-AI)
+# אני על רמקול? — EchoMind
+כלי אינטראקטיבי שבודק/משקף שאלות "אני על רמקול" (echo/feedback) בממשק חי.
+**הרצה:** פתח `index.html`.
